@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1153.367" height="1128.028" viewBox="0 0 1153.367 1128.028">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="imageMask" width="229" height="233" transform="translate(616 1401)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Intersection_1" data-name="Intersection 1" d="M671.958,1634a24.28,24.28,0,0,1-6.341-11.415l-28.476-114.557L845,1494.018v48.02l-7.934,68.992a23.938,23.938,0,0,1-21.769,21.487L793.29,1634Zm29.349-102.391a6.01,6.01,0,0,0-5.521,6.439l1.17,18.121a5.927,5.927,0,1,0,11.824-.8l-1.171-18.121a5.979,5.979,0,0,0-5.907-5.656C701.572,1531.6,701.439,1531.6,701.307,1531.609Zm88.681-5.977a6.009,6.009,0,0,0-5.521,6.439l1.17,18.121a5.927,5.927,0,1,0,11.824-.8l-1.17-18.121a5.981,5.981,0,0,0-5.906-5.656Q790.187,1525.619,789.988,1525.632Zm-99.077-63.087c-1.831-28.356,19.183-52.859,46.937-54.73s51.736,19.6,53.567,47.956l2.3,35.637-11.824.8-2.3-35.637c-1.4-21.683-19.74-38.1-40.964-36.671s-37.292,20.168-35.893,41.852l2.3,35.637-11.824.8Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Union_1" data-name="Union 1" d="M322.643,1081.456c-67.56-3.937-81.968-31.329-84.675-36.767-17.671-35.5,9.343-87.491,74.1-142.687a11.131,11.131,0,0,1,11.141-1.909,10.946,10.946,0,0,1,6.983,8.857c4.174,32.315,18.159,51.112,42.74,57.461a101.445,101.445,0,0,0,24.224,3.012c68.46.759,185.079-58.226,210.55-119.582,8.672-20.949,6.353-43.2-6.547-62.661a71.586,71.586,0,0,0-6.935-8.484,11.7,11.7,0,0,1-2.548-11.057,11.163,11.163,0,0,1,7.913-7.66c27.742-5.924,53.109-8.809,75.345-8.563,43.22.479,73.071,13.545,84.645,36.632,17.2,34.312-19.711,82.877-43.255,113.854-33.286,43.795-72.5,73.6-93.107,88.79-63.187,39.113-161.347,91.415-278.038,91.417Q334.018,1082.111,322.643,1081.456ZM397.4,947.445a79.849,79.849,0,0,1-18.926-2.3c-28.5-7.38-27.964-45.293-27.618-70.379L350.9,871c.745-66.741,55.834-120.424,122.818-119.681,37.368.414,89.686,18.886,109,48.019,8.884,13.37,10.445,27.933,4.566,42.13-21.435,51.63-128.6,105.986-188.788,105.981C398.126,947.451,397.757,947.449,397.4,947.445ZM418.714,812.8a81.823,81.823,0,0,0-24.074,57.2,11.044,11.044,0,0,0,22.086.245,60.046,60.046,0,0,1,17.652-41.927A11.023,11.023,0,0,0,418.714,812.8Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="_404_error_design" data-name="404 error design" transform="translate(-150.294 -746.549)">
+    <g id="Shopping_Bag_Icon" data-name="Shopping Bag Icon">
+      <path id="Ellipse_10_copy" data-name="Ellipse 10 copy" d="M750.618,1246.25c107.013-7.06,186.786,75.578,178.177,184.576s-102.339,203.082-209.352,210.141-186.786-75.578-178.177-184.576S643.6,1253.31,750.618,1246.25Z" fill="#959595"/>
+      <path id="Ellipse_10" data-name="Ellipse 10" d="M751.393,1236.434c107.013-7.06,186.786,75.578,178.177,184.576s-102.339,203.082-209.352,210.141-186.786-75.578-178.177-184.576S644.38,1243.494,751.393,1236.434Z" fill="#e3e3e3"/>
+      <g id="Shopping_bag" data-name="Shopping bag">
+        <ellipse id="Shadow" cx="123.87" cy="15.2" rx="123.87" ry="15.2" transform="translate(607.75 1754.05)" fill="rgba(161,161,161,0.43)"/>
+        <g id="Vector_Smart_Object" data-name="Vector Smart Object">
+          <g id="Vector_Smart_Object-2" data-name="Vector Smart Object" clip-path="url(#clip-path)">
+            <g id="Vector_Smart_Object-3" data-name="Vector Smart Object">
+              <g id="Group_72" data-name="Group 72">
+                <g id="Group_71" data-name="Group 71">
+                  <g id="Group_70" data-name="Group 70">
+                    <path id="Path_78" data-name="Path 78" d="M637.141,1508.028l28.476,114.558a23.771,23.771,0,0,0,24.344,18.379l125.335-8.448a23.939,23.939,0,0,0,21.77-21.487l13.5-117.387Zm71.639,47.344a5.927,5.927,0,1,1-11.824.8l-1.17-18.121a5.927,5.927,0,1,1,11.824-.8Zm88.681-5.977a5.927,5.927,0,1,1-11.824.8l-1.17-18.121a5.927,5.927,0,1,1,11.824-.8Z"/>
+                    <path id="Path_79" data-name="Path 79" d="M702.734,1461.748c-1.4-21.683,14.67-40.421,35.893-41.852s39.563,14.988,40.963,36.671l2.3,35.637,11.824-.8-2.3-35.637c-1.83-28.356-25.814-49.826-53.567-47.955s-48.768,26.374-46.937,54.729l2.3,35.637,11.824-.8Z"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Clip" clip-path="url(#clip-path-2)">
+            <rect id="Color_Fill_2" data-name="Color Fill 2" width="1440" height="3110" fill="#696969"/>
+          </g>
+        </g>
+      </g>
+      <g id="sad_smile" data-name="sad smile">
+        <image id="Asset_2" data-name="Asset 2" width="44" height="20" transform="translate(704 1579)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAUCAYAAAD2rd/BAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAALKADAAQAAAABAAAAFAAAAABO9zbeAAADN0lEQVRIDb3W6UtUYRSA8WwxM7cks6LFSO1DZlZQQVoESX2IiOhDUH9cfYmKJAoqAisRM2yxVdokLUXbLKPN0pyeZ5iJ621GrzZ64Oedu5973vO+mBWLxWZlIObwjGzMw1y4r2D4omEMJYwGT0b97cP/J0wqD4UoSmwXsJ0PPyALxghM9Cs+4TO+4Bs8FzmmmvBs3mCiJajEOqzFahSjALlIPt/kPqAfr9GHF3gOj31HpEg+MNLFiYtK2VajBhUJJm6F8xGuLofi8YO/VtQqu32DDjxEG55iwmpnRexhe3MJrORG1Ca2q9h6bqoxyI1WuhVNeIRe/ETKiJKwo7AGexOq2C6H/WtrJPuUn5MOJ56suJVuxDmYeMqYKOHF3GU161EHe9T+nI5wUvbgChpwC//0droetg/tVat6CCa7EOOFw2ilXLr0G1bflsmGz8xBund6rgLJSetq0wIn7N9Id/NKrjiAI9gAXzheOKE64cRxNbA3TdpkXS3s/2Uowwqkey+n4pN3tz8IC9Ac/5X4k+rG9Zw7jP1wJUh1DYfj66l9144u9OEdXAUcXitsj5u0bWTlbCknre+wEHkIh3PDgu2BK4nPdGL6vDHJOCR+vckeQznC4QSxelbTpcivb4JVjRK+oxImbbvVwuo7/OFwYu/De5yG/T0mYYfMNpCVSBUDHGzESbTCvrWaUeMXF9o2L/EYVu4gquFohKOMAzvwAFZ7ODncJezsghOsCg5jONo5cAHXcRv27WTDETJp3YPPcHSOYhvCSRdwbDOstIXpMmEruxUmuwXZCIZLyxOcwBm8RabCajvk5pEPVwlXk2AsZacOfljML9qEeuxE+OIRjvnQ4zgLb8p0OCdss4vwn6Jw+DFFKEauCVtu26EQrpvBsM9O4RL6EZ+pbDMZPvMZruImwq3mR9yHLdlj9ttRjmBYWZeTy2hAN6YzfF8HnCNWswYWzyXSj3CVaMagCS9CDoIxxM4dtKAXTpbpjo+8wJXHieZomlsnTPQuPD/qQZeYUtj0xjBuwK9qgzN6JsIimeB5mKC5OcG74cSPhwdNzpWhFu7bt9fg1w5gJsPW6MYrOL8c2TGj+wfWQ85dMFjvmAAAAABJRU5ErkJggg=="/>
+      </g>
+    </g>
+    <g id="gravity_beam" data-name="gravity beam">
+      <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="259.14" cy="43.31" rx="259.14" ry="43.31" transform="translate(534.79 1728.22)" fill="rgba(43,43,43,0.2)"/>
+      <path id="Gravity_Beam-2" data-name="Gravity Beam" d="M1049.164,1767.849c-42.328-6.418-89.334-2.75-133.183.987-44.318,4.056-85.571,8.556-127.257,11.138-41.624,2.669-83.584,3.376-127.982,1.928q-8.213-.281-16.521-.664-4.148-.192-8.3-.411t-8.309-.467c-11.073-.662-22.111-1.479-32.9-2.484-21.577-2.016-42.207-4.761-59.9-8.687-9.93-89.335-33.014-204.838-42.269-334.251q-1.625-24.3-2.519-49.242-.427-12.466-.623-25.082t-.121-25.373a1026.434,1026.434,0,0,1,5.713-104.167c7.633-70.763,23.749-143.993,53.338-218.659C651.105,1081.33,819.9,1150.99,911.847,1265.7c47.706,57.323,78.454,125.532,95.388,209,18.207,83.151,21.566,181.884,41.928,293.149Z" fill="rgba(43,43,43,0.1)"/>
+    </g>
+    <g id="Vector_Smart_Object-4" data-name="Vector Smart Object">
+      <g id="Vector_Smart_Object-5" data-name="Vector Smart Object" transform="matrix(1, 0.011, -0.011, 1, 235.613, 746.547)">
+        <path id="Path_84" data-name="Path 84" d="M390.3,239.836C323.557,282.185,217.411,339.9,90.764,333.923c-67.6-3.187-82.313-30.418-85.08-35.826-18.066-35.3,8.365-87.589,72.5-143.5A11.128,11.128,0,0,1,89.3,152.566a10.946,10.946,0,0,1,7.081,8.779c4.535,32.267,18.728,50.907,43.379,56.983a101.432,101.432,0,0,0,24.257,2.744c68.464,0,184.416-60.274,209.2-121.909,8.438-21.044,5.87-43.263-7.247-62.584a71.6,71.6,0,0,0-7.03-8.407,11.7,11.7,0,0,1-2.671-11.027A11.162,11.162,0,0,1,364.1,9.4C391.775,3.167,417.108,0,439.346,0c43.222,0,73.218,12.734,85.049,35.692,17.583,34.119-18.784,83.09-41.981,114.327C449.62,194.179,410.738,224.415,390.3,239.836Z"/>
+        <path id="Path_85" data-name="Path 85" d="M145.068,197a79.912,79.912,0,0,0,18.95,2.091c59.986,0,167.7-55.9,188.683-108.074,5.72-14.26,4-28.806-5.036-42.076C328.031,20.026,275.51,2.134,238.14,2.134c-66.987,0-121.474,54.29-121.474,121.035v3.763C116.6,152.021,116.489,189.937,145.068,197ZM183.829,64.215a11.023,11.023,0,0,1,15.836,15.339,60.043,60.043,0,0,0-17.183,42.12,11.044,11.044,0,0,1-22.087,0A81.816,81.816,0,0,1,183.829,64.215Z"/>
+      </g>
+      <g id="Clip-2" data-name="Clip" clip-path="url(#clip-path-3)">
+        <rect id="Color_Fill_3" data-name="Color Fill 3" width="1440" height="3110" fill="#383838"/>
+      </g>
+    </g>
+    <g id="_4" data-name="4">
+      <ellipse id="Shadow_copy" data-name="Shadow copy" cx="56.24" cy="6.84" rx="56.24" ry="6.84" transform="translate(346.33 1851.32)" fill="#e3e3e3"/>
+      <text id="_4-2" data-name="4" transform="matrix(0.998, 0.069, -0.069, 0.998, 158.815, 1729.287)" fill="#696969" font-size="502" font-family="LibreFranklin-Regular, Libre Franklin"><tspan x="0" y="0">4</tspan></text>
+    </g>
+    <g id="_4-3" data-name="4">
+      <ellipse id="Shadow-2" data-name="Shadow" cx="56.24" cy="6.84" rx="56.24" ry="6.84" transform="translate(1116.9 1734.3)" fill="#e3e3e3"/>
+      <text id="_4-4" data-name="4" transform="matrix(0.974, -0.228, 0.228, 0.974, 979.333, 1746.223)" fill="#696969" font-size="470.621" font-family="LibreFranklin-Regular, Libre Franklin"><tspan x="0" y="0">4</tspan></text>
+    </g>
+  </g>
+</svg>

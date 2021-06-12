@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "757395929934",
+    "project_id": "cubesnack-1611124943460",
+    "storage_bucket": "cubesnack-1611124943460.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757395929934:android:0da365ac06ed2d965efc1f",
+        "android_client_info": {
+          "package_name": "com.blueastral.cubesnack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757395929934-m3cutlkihi57tgqu50j84a15600ddgdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blueastral.cubesnack",
+            "certificate_hash": "0a878663b89e5a7c000e3a618c5d126a5892a21f"
+          }
+        },
+        {
+          "client_id": "757395929934-cfuacorh9eui2uph2vb93mqpln6sn1mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkAOY7m_YZahv_lbs9XJ3hzqM_XOYOQNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757395929934-2nkd924ou3d8h2au81pe1dmrfvffnnif.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757395929934-uvdiepupd2176l1eko1chnnad1ep23il.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blueastral.cubesnack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

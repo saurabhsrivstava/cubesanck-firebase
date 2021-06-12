@@ -1,0 +1,279 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.blueastral.cubesnack"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="28" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:13:1-62
+14-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:13:18-60
+15    <!--
+16     io.flutter.app.FlutterApplication is an android.app.Application that
+17         calls FlutterMain.startInitialization(this); in its onCreate method.
+18         In most cases you can leave this as-is, but you if you want to provide
+19         additional functionality it is fine to subclass or reimplement
+20         FlutterApplication and put your custom class here.
+21    -->
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:8:10-86
+22-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:8:27-83
+23    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+23-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:9:9-84
+23-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:9:26-81
+24    <uses-permission android:name="android.permission.CAMERA" />
+24-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:10:9-69
+24-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:10:26-66
+25    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+25-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:11:9-80
+25-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:11:26-77
+26    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+26-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:12:1-75
+26-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:12:18-72
+27
+28    <application
+28-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:15:5-60:19
+29        android:name="io.flutter.app.FlutterApplication"
+29-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:17:9-57
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.5.0-rc01] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/ec60dcf82c9d8c71ef8a33b98d2c4880/core-1.5.0-rc01/AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:19:9-43
+33        android:label="cubesnack"
+33-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:18:9-34
+34        android:supportsRtl="true"
+34-->[com.facebook.android:facebook-login:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/065f6df1341e52b1ccaaa4f4df69590b/jetified-facebook-login-5.5.1/AndroidManifest.xml:28:18-44
+35        android:usesCleartextTraffic="true" >
+35-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:16:9-44
+36        <activity
+36-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:20:9-33:20
+37            android:name="com.blueastral.cubesnack.MainActivity"
+37-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:21:13-41
+38            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+38-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:24:13-163
+39            android:hardwareAccelerated="true"
+39-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:25:13-47
+40            android:launchMode="singleTop"
+40-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:22:13-43
+41            android:theme="@style/LaunchTheme"
+41-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:23:13-47
+42            android:windowSoftInputMode="adjustResize" >
+42-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:26:13-55
+43            <intent-filter>
+43-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:27:13-32:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:28:17-68
+44-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:28:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:29:17-76
+46-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:29:27-74
+47
+48                <action android:name="FLUTTER_NOTIFICATION_CLICK" />
+48-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:30:18-70
+48-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:30:26-67
+49
+50                <category android:name="android.intent.category.DEFAULT" />
+50-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:31:17-76
+50-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:31:27-73
+51            </intent-filter>
+52        </activity>
+53        <!--
+54             Don't delete the meta-data below.
+55             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+56        -->
+57
+58        <meta-data
+58-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:37:9-39:33
+59            android:name="flutterEmbedding"
+59-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:38:13-44
+60            android:value="2" />
+60-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:39:13-30
+61        <!-- Facebook Login configuration -->
+62        <meta-data
+62-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:41:9-42:54
+63            android:name="com.facebook.sdk.ApplicationId"
+63-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:41:20-65
+64            android:value="@string/facebook_app_id" />
+64-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:42:13-52
+65
+66        <activity
+66-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:44:9-49:15
+67            android:name="com.facebook.FacebookActivity"
+67-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:44:19-63
+68            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+68-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:45:13-113
+69            android:exported="true"
+69-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:48:13-36
+70            android:label="@string/app_name"
+70-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:47:13-45
+71            android:theme="@style/com_facebook_activity_theme" />
+71-->[com.facebook.android:facebook-common:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/b4c2c2957f3b49bea20cc544a0ecc7a5/jetified-facebook-common-5.5.1/AndroidManifest.xml:32:13-63
+72        <activity
+72-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:50:9-59:20
+73            android:name="com.facebook.CustomTabActivity"
+73-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:51:13-58
+74            android:exported="true" >
+74-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:52:13-36
+75            <intent-filter>
+75-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:53:13-58:29
+76                <action android:name="android.intent.action.VIEW" />
+76-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:54:17-69
+76-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:54:25-66
+77
+78                <category android:name="android.intent.category.DEFAULT" />
+78-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:31:17-76
+78-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:31:27-73
+79                <category android:name="android.intent.category.BROWSABLE" />
+79-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:56:17-78
+79-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:56:27-75
+80
+81                <data android:scheme="@string/fb_login_protocol_scheme" />
+81-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:57:17-75
+81-->/Volumes/Office/cubesnack/BuyerFlow/android/app/src/main/AndroidManifest.xml:57:23-72
+82            </intent-filter>
+83        </activity>
+84        <activity
+84-->[:url_launcher] /Volumes/Office/cubesnack/BuyerFlow/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-11:74
+85            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+85-->[:url_launcher] /Volumes/Office/cubesnack/BuyerFlow/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-74
+86            android:exported="false"
+86-->[:url_launcher] /Volumes/Office/cubesnack/BuyerFlow/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:10:13-37
+87            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+87-->[:url_launcher] /Volumes/Office/cubesnack/BuyerFlow/build/url_launcher/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-71
+88
+89        <provider
+89-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:12:9-20:20
+90            android:name="com.sangcomz.fishbun.FishBunFileProvider"
+90-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:13:13-68
+91            android:authorities="com.blueastral.cubesnack.fishbunfileprovider"
+91-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:14:13-71
+92            android:exported="false"
+92-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:15:13-37
+93            android:grantUriPermissions="true" >
+93-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:16:13-47
+94            <meta-data
+94-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:17:13-19:58
+95                android:name="android.support.FILE_PROVIDER_PATHS"
+95-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:18:17-67
+96                android:resource="@xml/provider_paths" />
+96-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:19:17-55
+97        </provider>
+98
+99        <activity
+99-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:22:9-25:51
+100            android:name="com.sangcomz.fishbun.ui.album.AlbumActivity"
+100-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:23:13-71
+101            android:label="@string/album"
+101-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:24:13-42
+102            android:theme="@style/FishBunTheme" />
+102-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:25:13-48
+103        <activity
+103-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:26:9-28:51
+104            android:name="com.sangcomz.fishbun.ui.picker.PickerActivity"
+104-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:27:13-73
+105            android:theme="@style/FishBunTheme" />
+105-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:28:13-48
+106        <activity
+106-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:29:9-31:54
+107            android:name="com.sangcomz.fishbun.ui.detail.DetailActivity"
+107-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:30:13-73
+108            android:theme="@style/DetailViewTheme" />
+108-->[com.sangcomz:FishBun:0.11.2] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/c7c7ac31867b249baa6924a24eea85c8/jetified-FishBun-0.11.2/AndroidManifest.xml:31:13-51
+109        <activity android:name="com.facebook.CustomTabMainActivity" />
+109-->[com.facebook.android:facebook-common:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/b4c2c2957f3b49bea20cc544a0ecc7a5/jetified-facebook-common-5.5.1/AndroidManifest.xml:33:9-71
+109-->[com.facebook.android:facebook-common:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/b4c2c2957f3b49bea20cc544a0ecc7a5/jetified-facebook-common-5.5.1/AndroidManifest.xml:33:19-68
+110        <activity
+110-->[com.google.android.gms:play-services-auth:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/1bf5bef8d8d60c9f2ed4d51b9db0f0af/jetified-play-services-auth-16.0.1/AndroidManifest.xml:23:9-27:75
+111            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+111-->[com.google.android.gms:play-services-auth:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/1bf5bef8d8d60c9f2ed4d51b9db0f0af/jetified-play-services-auth-16.0.1/AndroidManifest.xml:24:13-93
+112            android:excludeFromRecents="true"
+112-->[com.google.android.gms:play-services-auth:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/1bf5bef8d8d60c9f2ed4d51b9db0f0af/jetified-play-services-auth-16.0.1/AndroidManifest.xml:25:13-46
+113            android:exported="false"
+113-->[com.google.android.gms:play-services-auth:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/1bf5bef8d8d60c9f2ed4d51b9db0f0af/jetified-play-services-auth-16.0.1/AndroidManifest.xml:26:13-37
+114            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+114-->[com.google.android.gms:play-services-auth:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/1bf5bef8d8d60c9f2ed4d51b9db0f0af/jetified-play-services-auth-16.0.1/AndroidManifest.xml:27:13-72
+115        <!--
+116            Service handling Google Sign-In user revocation. For apps that do not integrate with
+117            Google Sign-In, this service will never be started.
+118        -->
+119        <service
+119-->[com.google.android.gms:play-services-auth:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/1bf5bef8d8d60c9f2ed4d51b9db0f0af/jetified-play-services-auth-16.0.1/AndroidManifest.xml:33:9-36:110
+120            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+120-->[com.google.android.gms:play-services-auth:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/1bf5bef8d8d60c9f2ed4d51b9db0f0af/jetified-play-services-auth-16.0.1/AndroidManifest.xml:34:13-89
+121            android:exported="true"
+121-->[com.google.android.gms:play-services-auth:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/1bf5bef8d8d60c9f2ed4d51b9db0f0af/jetified-play-services-auth-16.0.1/AndroidManifest.xml:35:13-36
+122            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+122-->[com.google.android.gms:play-services-auth:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/1bf5bef8d8d60c9f2ed4d51b9db0f0af/jetified-play-services-auth-16.0.1/AndroidManifest.xml:36:13-107
+123
+124        <activity
+124-->[com.google.android.gms:play-services-base:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/8adc5a46a61387ad95bc12f2521b0eb5/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+125            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+125-->[com.google.android.gms:play-services-base:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/8adc5a46a61387ad95bc12f2521b0eb5/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+126            android:exported="false"
+126-->[com.google.android.gms:play-services-base:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/8adc5a46a61387ad95bc12f2521b0eb5/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+127            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+127-->[com.google.android.gms:play-services-base:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/8adc5a46a61387ad95bc12f2521b0eb5/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+128
+129        <meta-data
+129-->[com.google.android.gms:play-services-basement:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/ee62fc6541098e811e337f713ebbac69/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+130            android:name="com.google.android.gms.version"
+130-->[com.google.android.gms:play-services-basement:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/ee62fc6541098e811e337f713ebbac69/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+131            android:value="@integer/google_play_services_version" />
+131-->[com.google.android.gms:play-services-basement:16.0.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/ee62fc6541098e811e337f713ebbac69/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+132        <!--
+133         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+134         with the application context. This config is merged in with the host app's manifest,
+135         but there can only be one provider with the same authority activated at any given
+136         point; so if the end user has two or more different apps that use Facebook SDK, only the
+137         first one will be able to use the provider. To work around this problem, we use the
+138         following placeholder in the authority to identify each host application as if it was
+139         a completely different provider.
+140        -->
+141        <provider
+141-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:39:9-42:40
+142            android:name="com.facebook.internal.FacebookInitProvider"
+142-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:40:13-70
+143            android:authorities="com.blueastral.cubesnack.FacebookInitProvider"
+143-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:41:13-72
+144            android:exported="false" />
+144-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:42:13-37
+145
+146        <receiver
+146-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:44:9-50:20
+147            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+147-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:45:13-86
+148            android:exported="false" >
+148-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:46:13-37
+149            <intent-filter>
+149-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:47:13-49:29
+150                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+150-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:48:17-95
+150-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:48:25-92
+151            </intent-filter>
+152        </receiver>
+153        <receiver
+153-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:51:9-58:20
+154            android:name="com.facebook.CampaignTrackingReceiver"
+154-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:52:13-65
+155            android:exported="true"
+155-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:53:13-36
+156            android:permission="android.permission.INSTALL_PACKAGES" >
+156-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:54:13-69
+157            <intent-filter>
+157-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:55:13-57:29
+158                <action android:name="com.android.vending.INSTALL_REFERRER" />
+158-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:56:17-79
+158-->[com.facebook.android:facebook-core:5.5.1] /Users/saurabhsrivastava/.gradle/caches/transforms-2/files-2.1/d147e34991ddfe97edba57227f83f4b9/jetified-facebook-core-5.5.1/AndroidManifest.xml:56:25-76
+159            </intent-filter>
+160        </receiver>
+161    </application>
+162
+163</manifest>
